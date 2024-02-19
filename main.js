@@ -12,80 +12,80 @@ const songs = [
     title: "Alag-Aasmaan",
     name: "Anuv Jain",
     source:
-      "/music/Alag-Aasmaan.mp3",
+      "https://github.com/arpan-kumar-saini/music-website/blob/main/music/Alag-Aasmaan.mp3",
   },
   {
     title: "Husn",
     name: "Anuv Jain",
     source:
-      "/music/Husn.mp3",
+      "https://github.com/arpan-kumar-saini/music-website/blob/main/music/Husn.mp3",
   },
   {
     title: "Pehla Pyaar",
     name: "Armaan Malik",
     source:
-    "/music/Pehla-Pyaar .mp3",
+    "https://github.com/arpan-kumar-saini/music-website/blob/main/music/Pehla-Pyaar%20.mp3",
   },
   {
     title: "Iraaday",
     name: "Abdul Hannan",
     source:
-      "/music/Iraaday.mp3",
+      "https://github.com/arpan-kumar-saini/music-website/blob/main/music/Iraaday.mp3",
   },
   
   {
     title: "Waqt Ki Baatein",
     name: "Dream Nate",
     source:
-      "/music/Waqt Ki Baatein.mp3",
+      "https://github.com/arpan-kumar-saini/music-website/blob/main/music/Waqt%20Ki%20Baatein.mp3",
   },
   {
     title: "Teri Yaad",
     name: "Aditya Rikhari",
     source:
-      "/music/Teri-Yaad.mp3",
+      "https://github.com/arpan-kumar-saini/music-website/blob/main/music/Teri-Yaad.mp3",
   },
   {
     title: "Phir Kabhi",
     name: "Amaal Mallik and Arijit Singh",
     source:
-      "/music/Phir-Kabhi.mp3",
+      "https://github.com/arpan-kumar-saini/music-website/blob/main/music/Phir-Kabhi.mp3",
   },
   {
     title: "Tu hai Kahan",
     name: "Uraan",
     source:
-      "/music/Tu-Hai-Kahan.mp3",
+      "https://github.com/arpan-kumar-saini/music-website/blob/main/music/Tu-Hai-Kahan.mp3",
   },
   {
     title: "We don't talk Anymore",
     name: "Charlie Puth",
     source:
-      "/music/We-Don't-Talk-Anymore.mp3",
+      "https://github.com/arpan-kumar-saini/music-website/blob/main/music/We-Don't-Talk-Anymore.mp3",
   },
   {
     title: "Tu Hi Hai Aashiqui",
     name: "Arjit Singh",
     source:
-      "/music/Tu-Hi-Hai-Aashiqui.mp3",
+      "https://github.com/arpan-kumar-saini/music-website/blob/main/music/Tu-Hi-Hai-Aashiqui.mp3",
   },
   {
     title: " Choo Lo",
     name: "The Local Train",
     source:
-      "/music/Choo Lo.mp3",
+      "https://github.com/arpan-kumar-saini/music-website/blob/main/music/Choo%20Lo.mp3",
   },
   {
     title: "Pehle Bhi Main",
     name: "Vishal Mishra",
     source:
-      "/music/Pehle Bhi Main.mp3",
+      "https://github.com/arpan-kumar-saini/music-website/blob/main/music/Pehle%20Bhi%20Main.mp3",
   },
   {
     title: "Main Tumhara",
     name: "A.R. Rahman",
     source:
-      "/music/Main Tumhara.mp3",
+      "https://github.com/arpan-kumar-saini/music-website/blob/main/music/Main%20Tumhara.mp3",
   },
   
 
