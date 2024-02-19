@@ -24,7 +24,7 @@ const songs = [
     title: "Pehla Pyaar",
     name: "Armaan Malik",
     source:
-    "/music/Pehla-Pyaar .mp3",
+    "music/Pehla-Pyaar  .mp3",
   },
   {
     title: "Iraaday",
@@ -37,7 +37,7 @@ const songs = [
     title: "Waqt Ki Baatein",
     name: "Dream Nate",
     source:
-      "/music/Waqt Ki Baatein.mp3",
+      "music/Waqt Ki Baatein .mp3",
   },
   {
     title: "Teri Yaad",
@@ -49,7 +49,7 @@ const songs = [
     title: "Phir Kabhi",
     name: "Amaal Mallik and Arijit Singh",
     source:
-      "/music/Phir-Kabhi.mp3",
+      "music/Phir-Kabhi .mp3",
   },
   {
     title: "Tu hai Kahan",
@@ -61,7 +61,7 @@ const songs = [
     title: "We don't talk Anymore",
     name: "Charlie Puth",
     source:
-      "/music/We-Don't-Talk-Anymore.mp3",
+      "music/We-Dont-Talk-Anymore.mp3",
   },
   {
     title: "Tu Hi Hai Aashiqui",
