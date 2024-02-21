@@ -2,7 +2,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
+<div align="center" id='readme-top'>
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="https://github.com/arpan-kumar-saini/music-website/blob/main/images/logo.jpeg?raw=true" alt="Logo" width="80" height="80">
   </a>
